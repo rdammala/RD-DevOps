@@ -2,7 +2,7 @@
 
 Role-specific portfolio for DevOps / Platform Engineer opportunities.
 
-**Live:** https://rdammala.github.io/RD-DevOps/
+**Live:** https://rdammala-org.github.io/RD-DevOps/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
